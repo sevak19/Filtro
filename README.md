@@ -2,7 +2,8 @@
 
 # Descrição
 Este projeto implementa um algoritmo de classificação de texto baseado na contagem de palavras-chave associadas a tópicos específicos. A aplicação é útil para categorizar textos em áreas como tecnologia, saúde, esporte, entre outros, com base na presença e frequência de termos específicos.
-Codigo estilo Verde / BEECROWD (correcao das saidas por IA);
+
+Codigo estilo Verde / BEECROWD (Apenas saidas do resultado / correcao das saidas por IA);
 
 # Funcionamento
 O algoritmo analisa textos e os classifica em tópicos predefinidos, exigindo a presença de pelo menos cinco palavras-chave distintas para que um tópico seja considerado. Se o texto abranger mais de dois tópicos, ele é classificado como "misto". A análise é case-insensitive, contando todas as ocorrências, independentemente de maiúsculas ou minúsculas.
